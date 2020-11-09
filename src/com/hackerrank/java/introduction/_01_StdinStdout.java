@@ -2,7 +2,8 @@ package com.hackerrank.java.introduction;
 
 import java.util.Scanner;
 
-public class StdinStdout {
+public class _01_StdinStdout {
+
     /*
     Task
     In this challenge, you must read  integers from stdin and then print them to stdout. Each integer must be printed

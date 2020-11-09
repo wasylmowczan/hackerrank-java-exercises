@@ -2,7 +2,8 @@ package com.hackerrank.java.introduction;
 
 import java.util.Scanner;
 
-public class IfElse {
+public class _02_IfElse {
+
     /*
     Task
     Given an integer, n, perform the following conditional actions:

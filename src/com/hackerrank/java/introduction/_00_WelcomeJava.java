@@ -1,6 +1,6 @@
 package com.hackerrank.java.introduction;
 
-public class WelcomeJava {
+public class _00_WelcomeJava {
     /*
     Welcome to the world of Java! In this challenge, we practice printing to stdout.
 
